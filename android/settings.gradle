@@ -1,0 +1,3 @@
+rootProject.name = 'MyVietlot'
+
+include ':app'
